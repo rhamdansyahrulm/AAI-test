@@ -2,7 +2,6 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/AAI-test/assets/141615487/f3ee3d59-f649-4ec7-9c4b-0f8cd631eca3" alt="Ecuador's Store Dashboard" width="45%">
-  <a href="https://public.tableau.com/views/EcuadorsStoreSales/products?:language=en-US&:display_count=n&:origin=viz_share_link">
     <img src="https://github.com/rhamdansyahrulm/AAI-test/assets/141615487/11e0e600-0ff7-4ece-adbe-c3cd17ccfd80" alt="Ecuador's Store Dashboard" width="45%">
   </a>
 </div>
