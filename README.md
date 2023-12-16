@@ -1,6 +1,7 @@
 # AAI-test
 
-# Streamlit Dashboard for Data Visualization
+![image](https://github.com/rhamdansyahrulm/AAI-test/assets/141615487/f3ee3d59-f649-4ec7-9c4b-0f8cd631eca3)
+![image](https://github.com/rhamdansyahrulm/AAI-test/assets/141615487/11e0e600-0ff7-4ece-adbe-c3cd17ccfd80)
 
 This project provides a Streamlit dashboard for data visualization using pandas, matplotlib, and altair. The data used in this dashboard is sourced from a BigQuery table.
 
