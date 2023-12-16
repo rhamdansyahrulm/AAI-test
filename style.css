@@ -1,0 +1,40 @@
+div.eczjsme11, .eczjsme3 {
+    background-color: #ffffff;
+}
+
+.eczjsme2 {
+    display: None;
+}
+
+div.erw9t6i1{
+    background-color: rgb(238, 238, 238);
+}
+
+.board_information, .hospital_data {
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+
+.board_information {
+    height: 100px;
+}
+
+.hospital_data {
+    margin-top: 50px;
+    height: 250px;
+    margin-bottom: -200px;
+}
+
+.board_information_title, .hospital_data_title {
+    background-color: antiquewhite;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.board_information_value, .hospital_data_title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
