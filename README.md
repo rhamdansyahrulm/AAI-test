@@ -18,6 +18,10 @@ Before running the Streamlit dashboard, make sure you have the following librari
 - altair
 - streamlit
 
+```bash
+pip install pandas google-cloud-bigquery matplotlib altair streamlit
+```
+
 ## Getting Started
 
 1. Clone the Repository:
